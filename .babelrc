@@ -2,5 +2,9 @@
   "presets": [
     ["env", { "modules": false }],
     "stage-3"
-  ]
+  ],
+
+  "plugins": [["babel-plugin-dotenv", {
+      "replacedModuleName": "babel-dotenv"
+   }]]
 }
