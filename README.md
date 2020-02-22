@@ -1,5 +1,5 @@
 # Vue Weather Dashboard
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f8f9daeb-91e8-4dc6-8aed-59845616fc3d/deploy-status)](https://app.netlify.com/sites/quirky-ptolemy-bd51f4/deploys)
 > A Vue.js project
 
 You will need to get your own Google API key to input into index.html.
