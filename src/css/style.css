@@ -16,7 +16,7 @@ body {
   position: relative;
   display: flex;
   flex-direction: column;
-  background-image: linear-gradient(-180deg, #9c1de7 0%, #f3558e 100%);
+  background-image: linear-gradient(-180deg, #21e6c1 0%, #071e3d 100%);
 }
 
 #search {
@@ -179,18 +179,18 @@ body {
 }
 
 #dashboard-content {
-  background-color: #581b98;
+  background-color: #071e3d;
 }
 
 .custom-card {
-  background-color: #f3558e !important;
+  background-color: #ffffff !important;
   border: 0 !important;
   margin-top: 16px !important;
   margin-bottom: 20px !important;
 }
 
 .custom-content-card {
-  background-color: #f3558e !important;
+  background-color: #ffffff !important;
   border: 0 !important;
   margin-top: 16px !important;
   margin-bottom: 0px !important;
@@ -219,11 +219,11 @@ body {
 .highlights-item {
   min-height: 37vh;
   max-height: 38vh;
-  background-color: #f3558e;
+  background-color: #ffffff;
 }
 
 .card-heading {
-  color: white;
+  color: #000000;
   font-size: 1.8rem;
   font-weight: 500;
   line-height: 21px;
