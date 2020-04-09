@@ -5,8 +5,7 @@
 You will need to get your own Google API key to input into index.html.
 
 ## API
->Dark Sky API
->Google API
+>Dark Sky API & Google API
 
 ## Build Setup
 
